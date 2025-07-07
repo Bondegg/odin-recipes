@@ -16,3 +16,12 @@ ul {
     padding-left: 0px;
 }
 
+em {
+    background-color: yellow;
+}
+
+.home {
+    background-color: aqua;
+    color: white;
+    padding: 6px 12px;
+}
